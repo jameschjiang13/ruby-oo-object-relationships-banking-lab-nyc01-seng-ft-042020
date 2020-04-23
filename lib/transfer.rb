@@ -17,5 +17,5 @@ class Transfer
   end
 
 end
-"hello, give me my code!!!!!"
-"Hello i am trying "
+
+"hello"
